@@ -1,6 +1,8 @@
 # Python - Loops and Functions
 
-Our first pair programming exercise! Work together to make it through this practice notebook, taking turns as either the Driver or Navigator.
+1. Find your partner
+2. Fork this repo
+3. Clone this repo
+4. Do the work!
 
-Feel like you missed what pair programming is supposed to be all about? Check out [the writeup in the Recipe for Success document!](https://docs.google.com/document/d/1J2VgF-40k8aO44epy-Rlu21jeV53k7VNJKXRR3y0P_M/edit#heading=h.hsv76gt73puu)
-
+![let's begin gif from giphy](https://media.giphy.com/media/3BUYbmXltgQ4zu0Tv5/giphy.gif)
